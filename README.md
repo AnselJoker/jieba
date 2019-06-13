@@ -753,5 +753,5 @@ Segmentation speed
 =========
 * 1.5 MB / Second in Full Mode
 * 400 KB / Second in Default Mode
-* Test Env: Intel(R) Core(TM) i7-2600 CPU @ 3.4GHz；《围城》.txt
+* Test Env: Intel(R) Core(TM) i7-2600 CPU @ 3.4GHz；《围城》.txt 
 
